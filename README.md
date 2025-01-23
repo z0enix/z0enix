@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi i'am Zoenix 19 years old, Security Researcher with a strong passion for exploring ideas to protect organizations.
+I'm **[`Zoenix`](https://t.me/z0enix)**, A passionate hacker, security researcher, and aspiring cybersecurity specialist with expertise in vulnerability assessment and bug hunting. Driven by a deep love for technology, I am committed to protecting digital assets and fostering a safer online environment for everyone.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z0_enix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hamadou)
