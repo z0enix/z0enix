@@ -1,3 +1,8 @@
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
 I'm **[`Zoenix`](https://t.me/z0enix)**, A passionate hacker, security researcher, and aspiring cybersecurity specialist with expertise in vulnerability assessment and bug hunting. Driven by a deep love for technology, I am committed to protecting digital assets and fostering a safer online environment for everyone.
 
 ## 🌐 Socials:
