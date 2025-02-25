@@ -6,7 +6,7 @@
 I'm **[`Zoenix`](https://t.me/z0enix)**, A passionate hacker, security researcher, and aspiring cybersecurity specialist with expertise in vulnerability assessment and bug hunting. Driven by a deep love for technology, I am committed to protecting digital assets and fostering a safer online environment for everyone.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z0_enix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hamadou)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z0_enix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamadou-b402ab229/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/z0_enix)
 
 # 💻  Knowledge & Skills:
