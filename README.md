@@ -7,3 +7,4 @@
 > Creativity often emerges at the boundaries of the mind and madness, where thought is freed from conventional constraints - Madness here is not a loss of control, but a way of seeing the world from unusual perspectives - Geniuses like Van Gogh and Tesla were once regarded as insane before their brilliance was recognized - The mind that dares to embrace temporary madness finds the path to true discovery and innovation - In the end, madness is a partner to the mind, and those who liberate it create what the world could never have imagined.
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500000000&color=8000ff&width=500&lines=Knowledge+%7C+Mind+Repository)
