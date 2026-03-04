@@ -8,6 +8,7 @@
 
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=500000000&color=8000ff&width=500&lines=Knowledge+%7C+Mind+Repository)
-| Knowledge Area       | Details                                                                                       | Repo / Resources |
+| Core  Area       | Details                                                                                       | Repo / Resources |
 |---------------------|------------------------------------------------------------------------------------------------|-----------------|
 | **Security Researcher** | Discovering vulnerabilities, pentesting apps, and analyzing systems for security weaknesses.     | [Repo](https://github.com/z0enix/Security-Research) \| [blog](https://z0enix.medium.com/) |
+| Self-Development | Continuous improvement in discipline, strategic thinking, psychology, communication skills, leadership, and high-performance habits to enhance both technical excellence and personal mastery. | [Repo](https://github.com/z0enix) |
